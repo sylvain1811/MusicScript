@@ -9,7 +9,7 @@ Compiler who convert text to music.
     - Noire : `?DO`
     - Croche : `!DO`
     - Double croche : `.DO`
-- Change octave witch `+` or `-` : `DO+2`, `RE-1`
+- Change octave with `+` or `-` : `DO+2`, `RE-1`
 - Loop to play a note several times or a note sequence : `loop 10 {...}`
 - Silence before or after a note : `silence = 1000`
 - Assign some notes to var to be reused : `ding_dong = (DO,SOL-1,$DO);`
